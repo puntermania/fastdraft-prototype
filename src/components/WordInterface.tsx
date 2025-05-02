@@ -39,18 +39,18 @@ const WordInterface = ({ screen = 1 }) => {
               </p>
               
               <p className="mb-4 text-sm">
-                <strong>This non-binding term sheet (the "Term Sheet") summarizes the principal terms of a proposed acquisition transaction:</strong>
+                <strong>This non-binding term sheet (the &quot;Term Sheet&quot;) summarizes the principal terms of a proposed acquisition transaction:</strong>
               </p>
               
               <table className="w-full mb-6 text-sm">
                 <tbody>
                   <tr>
                     <td className="border border-gray-300 p-2 w-36"><strong>Buyer:</strong></td>
-                    <td className="border border-gray-300 p-2">Illinois Acquisition Corp., an Illinois corporation ("Buyer")</td>
+                    <td className="border border-gray-300 p-2">Illinois Acquisition Corp., an Illinois corporation (&quot;Buyer&quot;)</td>
                   </tr>
                   <tr>
                     <td className="border border-gray-300 p-2"><strong>Seller:</strong></td>
-                    <td className="border border-gray-300 p-2">CalTech Solutions, Inc., a California corporation ("Seller")</td>
+                    <td className="border border-gray-300 p-2">CalTech Solutions, Inc., a California corporation (&quot;Seller&quot;)</td>
                   </tr>
                   <tr>
                     <td className="border border-gray-300 p-2"><strong>Transaction:</strong></td>
@@ -58,7 +58,7 @@ const WordInterface = ({ screen = 1 }) => {
                   </tr>
                   <tr>
                     <td className="border border-gray-300 p-2"><strong>Purchase Price:</strong></td>
-                    <td className="border border-gray-300 p-2">$45,000,000 USD ("Purchase Price"), subject to adjustments</td>
+                    <td className="border border-gray-300 p-2">$45,000,000 USD (&quot;Purchase Price&quot;), subject to adjustments</td>
                   </tr>
                   <tr>
                     <td className="border border-gray-300 p-2"><strong>Payment Terms:</strong></td>
@@ -138,7 +138,7 @@ const WordInterface = ({ screen = 1 }) => {
               <h2 className="text-lg text-center mb-6">ILLINOIS ACQUIRER OF CALIFORNIA COMPANY</h2>
               
               <p className="mb-4 text-sm">
-                <strong>THIS STOCK PURCHASE AGREEMENT</strong> (this "Agreement") is made and entered into as of May 2, 2025, by and among Illinois Acquisition Corp., an Illinois corporation ("Buyer"), CalTech Solutions, Inc., a California corporation (the "Company"), and the shareholders of the Company identified on the signature pages hereto (each, a "Seller" and collectively, the "Sellers").
+                <strong>THIS STOCK PURCHASE AGREEMENT</strong> (this &quot;Agreement&quot;) is made and entered into as of May 2, 2025, by and among Illinois Acquisition Corp., an Illinois corporation (&quot;Buyer&quot;), CalTech Solutions, Inc., a California corporation (the &quot;Company&quot;), and the shareholders of the Company identified on the signature pages hereto (each, a &quot;Seller&quot; and collectively, the &quot;Sellers&quot;).
               </p>
               
               <p className="mb-4 text-sm">
@@ -146,7 +146,7 @@ const WordInterface = ({ screen = 1 }) => {
               </p>
               
               <p className="mb-4 text-sm">
-                WHEREAS, Sellers own all of the issued and outstanding capital stock of the Company (the "Shares");
+                WHEREAS, Sellers own all of the issued and outstanding capital stock of the Company (the &quot;Shares&quot;);
               </p>
               
               <p className="mb-4 text-sm">
@@ -170,7 +170,7 @@ const WordInterface = ({ screen = 1 }) => {
               </p>
               
               <p className="mb-4 text-sm">
-                <strong>2.2 Purchase Price.</strong> Buyer agrees to pay to Sellers at the Closing $45,000,000 (the "Purchase Price"), subject to adjustment pursuant to Section 2.3, payable as follows: (i) $40,000,000 by wire transfer or delivery of other immediately available funds and (ii) $5,000,000 (the "Escrow Amount") shall be withheld from the Purchase Price and deposited with the Escrow Agent...
+                <strong>2.2 Purchase Price.</strong> Buyer agrees to pay to Sellers at the Closing $45,000,000 (the &quot;Purchase Price&quot;), subject to adjustment pursuant to Section 2.3, payable as follows: (i) $40,000,000 by wire transfer or delivery of other immediately available funds and (ii) $5,000,000 (the &quot;Escrow Amount&quot;) shall be withheld from the Purchase Price and deposited with the Escrow Agent...
               </p>
               
               <p className="text-xs text-gray-500 mt-10">

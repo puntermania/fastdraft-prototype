@@ -88,7 +88,7 @@ const WordInterface = ({ screen = 1 }) => {
               
               <ul className="list-disc pl-5 mb-6 text-sm">
                 <li className="mb-1">Required regulatory approvals from California Department of Business Oversight</li>
-                <li className="mb-1">No material adverse change in Seller's business</li>
+                <li className="mb-1">No material adverse change in Seller&apos;s business</li>
                 <li className="mb-1">Key employee retention agreements</li>
                 <li className="mb-1">Satisfactory completion of due diligence</li>
                 <li className="mb-1">Board approvals from both Buyer and Seller</li>
@@ -160,7 +160,7 @@ const WordInterface = ({ screen = 1 }) => {
               <h2 className="text-base font-bold mt-6 mb-2">ARTICLE 1<br />DEFINITIONS</h2>
               
               <p className="mb-4 text-sm">
-                "Acquisition Proposal" means any offer or proposal for, or indication of interest in, any acquisition of all or a portion of the Shares or assets of the Company...
+              &quot;Acquisition Proposal&quot; means any offer or proposal for, or indication of interest in, any acquisition of all or a portion of the Shares or assets of the Company...
               </p>
               
               <h2 className="text-base font-bold mt-6 mb-2">ARTICLE 2<br />PURCHASE AND SALE OF SHARES</h2>
